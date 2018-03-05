@@ -21,3 +21,15 @@
 * Fast R-CNN (2015), R. Girshick [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
 * Rich feature hierarchies for accurate object detection and semantic segmentation (2014), R. Girshick et al. [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
 * Spatial pyramid pooling in deep convolutional networks for visual recognition (2014), K. He et al. [pdf](https://arxiv.org/pdf/1406.4729.pdf)
+
+## scene detection paper
+* Deep Direct Regression for Multi-Oriented Scene Text Detection [pdf](https://arxiv.org/abs/1703.08289)
+* TextBoxes: A Fast Text Detector with a Single Deep Neural Network [pdf](https://arxiv.org/abs/1611.06779)
+* Detecting Text in Natural Image with Connectionist Text Proposal Network [pdf](https://arxiv.org/abs/1609.03605)
+* R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection [pdf](https://arxiv.org/abs/1706.09579)
+* EAST: An Efficient and Accurate Scene Text Detector [pdf](https://arxiv.org/abs/1704.03155)
+* Detecting Oriented Text in Natural Images by Linking Segments [pdf](https://arxiv.org/abs/1703.06520)
+* Arbitrary-Oriented Scene Text Detection via Rotation Proposals [pdf](https://arxiv.org/abs/1703.01086)
+* Scene Text Detection via Holistic, Multi-Channel Prediction [pdf](https://arxiv.org/abs/1606.09002)
+* Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [pdf](https://arxiv.org/abs/1703.01425)
+
