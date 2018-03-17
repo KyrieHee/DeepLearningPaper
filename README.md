@@ -36,4 +36,5 @@
 ## 图题生成
 * Show and tell: A neural image caption generator, [2015 CVPR](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf)
 * Show, attend and tell: Neural image caption generation with visual attention, [2015 ICML](http://arxiv.org/pdf/1502.03044)
+* VQA: Visual question answering (2015), S. Antol et al. [pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
 
