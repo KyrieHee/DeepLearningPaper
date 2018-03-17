@@ -33,3 +33,5 @@
 * Scene Text Detection via Holistic, Multi-Channel Prediction [pdf](https://arxiv.org/abs/1606.09002)
 * Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [pdf](https://arxiv.org/abs/1703.01425)
 
+## 图题生成
+* Show and tell: A neural image caption generator, [2015 CVPR](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf)
