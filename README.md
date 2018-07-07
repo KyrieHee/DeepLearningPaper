@@ -19,6 +19,7 @@
 * YOLO9000: Better, Faster, Stronger(2016). [pdf](https://arxiv.org/pdf/1612.08242.pdf)
 * You only look once: Unified, real-time object detection (2016), J. Redmon et al. [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
 * U-Net: Convolutional Networks for Biomedical Image Segmentation. [pdf](https://arxiv.org/pdf/1505.04597.pdf)
+* SSD: Single Shot MultiBox Detector. [pdf](https://arxiv.org/pdf/1512.02325.pdf)
 * Fully convolutional networks for semantic segmentation (2015), J. Long et al. [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015), S. Ren et al. [pdf](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
 * Fast R-CNN (2015), R. Girshick [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
