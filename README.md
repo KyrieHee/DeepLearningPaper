@@ -15,6 +15,7 @@
 * ImageNet classification with deep convolutional neural networks (2012), A. Krizhevsky et al. [pdf](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
 ## Image: Segmentation / Object Detection
+* YOLOv3: An Incremental Improvement(2018). [pdf](https://arxiv.org/pdf/1804.02767.pdf)
 * YOLO9000: Better, Faster, Stronger(2016). [pdf](https://arxiv.org/pdf/1612.08242.pdf)
 * You only look once: Unified, real-time object detection (2016), J. Redmon et al. [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
 * U-Net: Convolutional Networks for Biomedical Image Segmentation. [pdf](https://arxiv.org/pdf/1505.04597.pdf)
