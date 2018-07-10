@@ -25,7 +25,8 @@
 * Fast R-CNN (2015), R. Girshick [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
 * Rich feature hierarchies for accurate object detection and semantic segmentation (2014), R. Girshick et al. [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
 * Spatial pyramid pooling in deep convolutional networks for visual recognition (2014), K. He et al. [pdf](https://arxiv.org/pdf/1406.4729.pdf)
-* DeepLabv1: Semantic image segmentation with deep convolutional nets and fully connected CRFs. [pdf](https://arxiv.org/pdf/1412.7062v3.pdf)
+* DeepLabv2: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs(2016). [pdf](https://arxiv.org/pdf/1606.00915)
+* DeepLabv1: Semantic image segmentation with deep convolutional nets and fully connected CRFs(2014). [pdf](https://arxiv.org/pdf/1412.7062v3.pdf)
 
 ## scene text detection/recognition paper
 * Deep Direct Regression for Multi-Oriented Scene Text Detection [pdf](https://arxiv.org/abs/1703.08289)
